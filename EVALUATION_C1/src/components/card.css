@@ -1,0 +1,9 @@
+.cardDiv {
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  background-color: #ccd1e4;
+  width: 100%;
+  height: 100px;
+  color: black;
+}
