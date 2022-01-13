@@ -1,0 +1,26 @@
+.form {
+  margin: auto;
+  margin-top: 20px;
+
+  width: 300px;
+  font-size: 25px;
+  background-color: #ffab76;
+}
+
+.inputBox {
+  padding: 10px;
+  margin: 4px;
+  width: 250px;
+  /* background-color: grey; */
+  color: rgb(27, 25, 25);
+  border: 2px solid black;
+}
+
+.button {
+  width: 250px;
+  padding: 7px;
+  margin-top: 5px;
+  margin-bottom: 15px;
+  font-size: 18px;
+  background-color: #fffda2;
+}
